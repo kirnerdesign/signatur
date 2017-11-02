@@ -1,0 +1,52 @@
+[Config]
+Compilator.SaveAll=0
+Compilator.Capture=0
+Compilator.HideOutput=0
+Compilator.ProgSaveAll=0
+Compilator.ProgRunSelection=0
+Compilator.LogType=0
+DefaultDir=Q:\A R B E I T (Firmen)\BRÜNING\Mail-Signatur\Signatur
+DefaultCPIndex=0
+LogtoEnd=1
+DontOpen=0
+AbsolutePath=0
+FileFormat=0
+ProjectFilesOnly=0
+Extensions=*.*
+[Project tree]
+Signatur
+	+Signatur
+		-ALT
+			ALT\signatur.gif
+			ALT\signatur.jpg
+			ALT\signatur.png
+			ALT\signatur.psd
+			ALT\signatur2012.jpg
+			ALT\signatur2012.psd
+			ALT\signatur2012_KE.jpg
+			ALT\signatur2012_OG.jpg
+			ALT\signatur2012b.jpg
+			ALT\Thumbs.db
+		-Muster
+			Muster\signatur2012_KE.jpg
+			Muster\signatur2012_OG.jpg
+		dany_signatur_ke.html
+		diet_signatur_og.html
+		info_signatur_ke.html
+		info_signatur_og.html
+		logo-ke.jpg
+		logo-og.jpg
+		mart_signatur_ke.html
+		maxi_signatur_ke.html
+		nils_signatur_ke.html
+		rich_signatur_ke.html
+		Thumbs.db
+		vane_signatur_ke.html
+[Open project files]
+0=dany_signatur_ke.html
+[Selected Project Files]
+Main=
+Selected=dany_signatur_ke.html
+[dany_signatur_ke.html]
+TopLine=1
+Caret=1,1
